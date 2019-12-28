@@ -1,0 +1,19 @@
+{
+  "name": "marquee",
+  "version": "1.0.0",
+  "description": "Marquee Site for frankschmidt.ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankschmidt902/marquee.git"
+  },
+  "author": "Frank Schmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankschmidt902/marquee/issues"
+  },
+  "homepage": "https://github.com/frankschmidt902/marquee#readme"
+}
